@@ -1,0 +1,47 @@
+body {
+    font-family: "Courier New", Courier, monospace;
+    text-align: center;
+  }
+  h1 {
+    color: gray;
+    font-size: 22px;
+    font-weight: 100%;
+    line-height: 40px;
+    margin: 0;
+  }
+  ul {
+    margin: 0 0 20px;
+    padding: 0;
+  }
+  li {
+    color: darkcyan;
+    font-size: 22px;
+    font-weight: 100%;
+    height: 20px;
+    list-style: none;
+  }
+  .weather-app {
+    border: 5px solid #666699;
+    padding: 10px;
+    margin: 20px auto;
+    border-radius: 10px;
+    max-width: 500px;
+  }
+  .weather-icon {
+    height: 500px;
+    width: 400px;
+  }
+  .temperature {
+    color: gray;
+    font-size: 32px;
+    font-weight: 900;
+  }
+  
+  .units {
+    color: darkblue;
+  }
+  
+  .search-form {
+    text-align: center;
+  }
+  
